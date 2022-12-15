@@ -8,11 +8,11 @@
 		<version>3.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.syntellect</groupId>
-	<artifactId>spring_boot_annotation</artifactId>
+	<groupId>com.annotations</groupId>
+	<artifactId>spring_boot_annotations</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring_boot_annotation</name>
-	<description> Learning Spring Boot Annotation</description>
+	<name>spring_boot_annotations</name>
+	<description>spring_boot_annotations</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
